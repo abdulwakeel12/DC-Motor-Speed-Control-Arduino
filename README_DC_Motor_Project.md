@@ -39,7 +39,7 @@ The project focuses on:
 ---
 
 ## 🔌 Circuit Diagram  
-<img src="images/schematic.png" width="500">
+<img src="schematic.png" width="500">
 
 ### ⚠️ Precautions
 - The **flat side** of the transistor must face toward the Arduino.
@@ -103,23 +103,6 @@ void loop() {
 - [TutorialsPoint – DC Motor Control](https://www.tutorialspoint.com/arduino/arduino_dc_motor.htm)  
 - [Slideshare – Speed Control of DC Motor](https://www.slideshare.net/mafazahmed/speed-control-of-dc-motor)  
 - [ElectronicsHub](https://www.electronicshub.org/speed-and-direction-control-of-dc-motor-using-arduino/)
-
----
-
-## 📂 Project Structure
-
-```
-DC-Motor-Speed-Control-Arduino/
-│
-├── README.md
-├── code/
-│   ├── Spin_Control.ino
-│   └── Speed_Control.ino
-├── images/
-│   └── schematic.png
-├── docs/
-│   └── DC_Motor_Project_Report.pdf
-```
 
 ---
 
